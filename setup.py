@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="Real_Estate_Analysis",
+    name="real_estate_analysis",
     version="0.1.0",
     author="Anuj Kumar Shah, Prajeeth Nakka, Somya Singh",
     author_email=["ashah5@mail.yu.edu", "pnakka@mail.yu.edu", "ssingh9@mail.yu.edu"],
